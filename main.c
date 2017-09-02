@@ -1,3 +1,6 @@
+//Author : Israel N. Gbati
+
+
 #include "TM4C123.h"                    // Device header
 
 #include<stdint.h>
